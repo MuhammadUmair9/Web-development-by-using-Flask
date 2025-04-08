@@ -14,13 +14,13 @@ This is a simple Flask web application that allows users to submit their details
 
 ### How to Run:
 1. Install Flask by running:
-
+   ```bash
    pip install Flask
-
+   ```
 2. Run the Flask application:
-
+   ```bash
    python Python.py
-
+   ```
 3. Open your browser and navigate to `http://127.0.0.1:5000/` to interact with the form.
 
-
+---
