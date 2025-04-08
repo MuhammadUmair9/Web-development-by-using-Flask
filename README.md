@@ -21,6 +21,6 @@ This is a simple Flask web application that allows users to submit their details
    ```bash
    python Python.py
    ```
-3. Open your browser and navigate to `http://127.0.0.1:5000/` to interact with the form.
+3. Open any browser and navigate to `http://127.0.0.1:5000/` to interact with the form.
 
 ---
